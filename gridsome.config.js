@@ -2,8 +2,8 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Nichlas W. Andersen",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "Symantic Creative",
+  siteUrl: `symanticreative.com`,
   titleTemplate: "%s - NWA",
   siteDescription: "Creative technologist",
   plugins: [
